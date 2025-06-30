@@ -23,8 +23,8 @@ Abstract: Fish Feeding Intensity Recognition (FFIR) is crucial in industrial aqu
 
 The AV-CIL-FFIR dataset was collected in a real aquaculture environment at the Aquatic Products Promotion Station in Guangzhou, China. We collected a total of 81,932 audio-visual samples, focusing on six different fish species commonly farmed in aquaculture: Tilapia, Black Perch, Jade Perch, Lotus Carp, Red Tilapia, and Sunfish. The real-world setting introduced various challenges such as environmental noise, water surface reflection, and foam, providing a more realistic and complex scenario compared to controlled environments.
  
-![image](https://github.com/FishMaster93/AV-CIL-FFIR/blob/images/CIL_dataset.png) 
+![image](https://github.com/FishMaster93/AV-CIL-FFIR/blob/main/images/CIL_dataset.png) 
 
 
 The pipeline of the paper is shown below:
-![image](https://github.com/FishMaster93/AV-CIL-FFIR/blob/images/framework.png) 
+![image](https://github.com/FishMaster93/AV-CIL-FFIR/blob/main/images/framework.png) 
